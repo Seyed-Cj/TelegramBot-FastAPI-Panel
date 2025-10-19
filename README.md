@@ -10,7 +10,7 @@ A simple FastAPI-based web panel to manage a Telegram bot (turn on/off) with per
 ## Installation
 1. Clone the repository:
 ```bash
-git clone [https://github.com/Seyed-Cj/TelegramBot-FastAPI-Panel.git](https://github.com/Seyed-Cj/TelegramBot-FastAPI-Panel.git)
+git clone https://github.com/Seyed-Cj/TelegramBot-FastAPI-Panel.git
 cd TelegramBot-FastAPI-Panel
 ```
 
